@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 # 9-multiple_by_2.py
 
